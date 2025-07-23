@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.ibb.co/YT3BYBLP/IMG-20231020-WA0068.jpg" alt="profile banner" />
+  <img height="150" src="https://i.ibb.co/Rp7zMJn0/1753240661413.jpg" alt="profile banner" />
 </div>
 
 ---
